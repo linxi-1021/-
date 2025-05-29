@@ -1,0 +1,6 @@
+到目标文件中终端：
+git init
+git add .
+git commit -m "提交文件"  (不可省略)
+git remote add origin git@github.com:xxx/xxx.git
+git push -u origin main
